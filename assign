@@ -21,3 +21,28 @@
      </ul>
     </nav>
    </header>
+   <section class="banner">
+    <div class="slider">
+     <img src="C:\Users\sanch\Downloads\seongil-park-3wGm60NhrEM-unsplash.jpg" alt="Banner 1">
+     <img src="C:\Users\sanch\Downloads\tamar-dCMvzMV1jfc-unsplash.jpg" alt="Banner 2">
+     <img src="C:\Users\sanch\Downloads\kira-auf-der-heide-8s1wfA6aB-4-unsplash.jpg" alt="Banner 3">
+    </div>
+   </section>
+   <section class="services">
+    <h2>Our Services</h2>
+    <div class="service">
+     <img src= "C:\Users\sanch\Downloads\ross-parmly-rf6ywHVkrlY-unsplash.jpg" alt="Service 1">
+     <h3>Flight Booking</h3>
+     <p>.</p>
+    </div>
+    <div class="service">
+     <img src="img/service2.jpg" alt="Service 2">
+     <h3>Hotel Booking</h3>
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="service">
+     <img src="img/service3.jpg" alt="Service 3">
+     <h3>Tour Packages</h3>
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+   </section>
