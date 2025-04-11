@@ -33,16 +33,16 @@
     <div class="service">
      <img src= "C:\Users\sanch\Downloads\ross-parmly-rf6ywHVkrlY-unsplash.jpg" alt="Service 1">
      <h3>Flight Booking</h3>
-     <p>.</p>
+     <p>We are committed to providing our customers with quality air travel.</p>
     </div>
     <div class="service">
-     <img src="img/service2.jpg" alt="Service 2">
+    <img src="C:\Users\sanch\Downloads\sasha-kaunas-TAgGZWz6Qg8-unsplash.jpg" alt="services 2">
      <h3>Hotel Booking</h3>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Take It From Us. You're In Good Hands.</p>
     </div>
     <div class="service">
-     <img src="img/service3.jpg" alt="Service 3">
+     <img src="C:\Users\sanch\Downloads\bing-hui-yau-y85Tir86Q34-unsplash.jpg" alt="Service 3">
      <h3>Tour Packages</h3>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Your passport to extraordinary experiences</p>
     </div>
    </section>
